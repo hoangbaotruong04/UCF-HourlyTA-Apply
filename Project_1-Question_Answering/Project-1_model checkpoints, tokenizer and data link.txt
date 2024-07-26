@@ -1,0 +1,3 @@
+Since Github cannot upload files that are too large, to test the source code of the project "Question Answering using Transformer-based models", download the model checkpoints, data and tokenizer from the following link:
+
+https://drive.google.com/drive/folders/1CociCp10bOWEktTDE7kMqKr9DsetXSvG?usp=drive_link
